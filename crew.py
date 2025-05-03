@@ -1,5 +1,4 @@
 from crewai import Crew, Process
-
 from agents import blog_researcher, blog_writer
 from tasks import research_task, write_task
 
